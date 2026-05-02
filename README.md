@@ -33,7 +33,7 @@
 - 或 Python 3.8+
 
 - 由于Flow增加了额外的验证码，你可以自行选择使用浏览器打码或第三发打码：
-注册[YesCaptcha](https://yescaptcha.com/i/13Xd8K)并获取api key，将其填入系统配置页面```YesCaptcha API密钥```区域
+注册[YesCaptcha](https://yescaptcha.com/i/DkvpLR)并获取api key，将其填入系统配置页面```YesCaptcha API密钥```区域
 - 默认 `docker-compose.yml` 建议搭配第三方打码（yescaptcha/capmonster/ezcaptcha/capsolver）。
 如需 Docker 内有头打码（browser/personal），请使用下方 `docker-compose.headed.yml`。
 
